@@ -1,6 +1,6 @@
 cara cepat
 - buka google
-- search httpsdials-algorithm.streamlit.app
+- search https://dials-algorithm.streamlit.app/
 
 cara local
 - clone repo httpsgithub.comBilirohmandial-s-algorithm.git
