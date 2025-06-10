@@ -3,6 +3,6 @@ cara cepat
 - search https://dials-algorithm.streamlit.app/
 
 cara local
-- clone repo httpsgithub.comBilirohmandial-s-algorithm.git
+- clone repo https://github.com/Bilirohman/dial-s-algorithm.git
 - install requirements.txt
 - run di terminal 'streamlit run app.py'
